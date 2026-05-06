@@ -1,0 +1,10 @@
+/Users/jarron/Desktop/Code/Rust/razorbill/sim-wasm/target/wasm32-unknown-unknown/release/deps/js_sys-5a2ea8caabdd98e6.d: /Users/jarron/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/js-sys-0.3.97/src/lib.rs /Users/jarron/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/js-sys-0.3.97/src/futures/mod.rs /Users/jarron/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/js-sys-0.3.97/src/futures/queue.rs /Users/jarron/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/js-sys-0.3.97/src/futures/task/singlethread.rs
+
+/Users/jarron/Desktop/Code/Rust/razorbill/sim-wasm/target/wasm32-unknown-unknown/release/deps/libjs_sys-5a2ea8caabdd98e6.rlib: /Users/jarron/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/js-sys-0.3.97/src/lib.rs /Users/jarron/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/js-sys-0.3.97/src/futures/mod.rs /Users/jarron/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/js-sys-0.3.97/src/futures/queue.rs /Users/jarron/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/js-sys-0.3.97/src/futures/task/singlethread.rs
+
+/Users/jarron/Desktop/Code/Rust/razorbill/sim-wasm/target/wasm32-unknown-unknown/release/deps/libjs_sys-5a2ea8caabdd98e6.rmeta: /Users/jarron/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/js-sys-0.3.97/src/lib.rs /Users/jarron/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/js-sys-0.3.97/src/futures/mod.rs /Users/jarron/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/js-sys-0.3.97/src/futures/queue.rs /Users/jarron/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/js-sys-0.3.97/src/futures/task/singlethread.rs
+
+/Users/jarron/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/js-sys-0.3.97/src/lib.rs:
+/Users/jarron/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/js-sys-0.3.97/src/futures/mod.rs:
+/Users/jarron/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/js-sys-0.3.97/src/futures/queue.rs:
+/Users/jarron/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/js-sys-0.3.97/src/futures/task/singlethread.rs:
