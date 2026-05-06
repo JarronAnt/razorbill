@@ -1,0 +1,17 @@
+[package]
+name = "razorbill"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+rand = "0.8"
+nalgebra = { version = "0.32", features = ["rand-no-std"]}
+
+[lib]
+name = "razorbill"
+path = "src/lib.rs"
+
+[dev-dependencies]
+approx = "0.4"
+rand_chacha = "0.3"
+test-case = "3.3.1"
